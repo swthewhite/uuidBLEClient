@@ -4,12 +4,12 @@ What we have to make is `BLEClient Application, which have UNIQUE UUID for SPECI
 # CheckLists
 * [ ] Feature for `grant Permission`
   * [ ] add Permission Settings
-  *[ ] add Permission Works
+  * [ ] add Permission Works
 * [ ] Feature for `scannig BLE DEVICE`
-  *[ ] add Scanning Works
+  * [ ] add Scanning Works
 * [ ] Feature for `decryption UUID`
-  *[ ] add Decryption Works
+  * [ ] add Decryption Works
 * [ ] Feature for `filtering BLE DEVICE`
-  *[ ] add Filtering Works
+  * [ ] add Filtering Works
 * [ ] Feature for `integrating SCAN&FILTER`
-  *[ ] add Integrating Works
+  * [ ] add Integrating Works
