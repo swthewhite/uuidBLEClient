@@ -1,7 +1,7 @@
 ---
-name: "✨[feat] Feature Request"
+name: "Pull Request"
 about: Develop an idea for this project
-title: "[feat]"
+title: "[label]"
 labels: ''
 assignees: swthewhite
 
